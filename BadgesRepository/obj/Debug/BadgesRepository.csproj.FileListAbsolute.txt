@@ -1,0 +1,6 @@
+C:\Users\qinn\source\repos\KomodoBadges\BadgesRepository\bin\Debug\BadgesRepository.dll
+C:\Users\qinn\source\repos\KomodoBadges\BadgesRepository\bin\Debug\BadgesRepository.pdb
+C:\Users\qinn\source\repos\KomodoBadges\BadgesRepository\obj\Debug\BadgesRepository.csproj.AssemblyReference.cache
+C:\Users\qinn\source\repos\KomodoBadges\BadgesRepository\obj\Debug\BadgesRepository.csproj.CoreCompileInputs.cache
+C:\Users\qinn\source\repos\KomodoBadges\BadgesRepository\obj\Debug\BadgesRepository.dll
+C:\Users\qinn\source\repos\KomodoBadges\BadgesRepository\obj\Debug\BadgesRepository.pdb

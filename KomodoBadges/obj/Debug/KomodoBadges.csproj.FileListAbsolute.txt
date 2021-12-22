@@ -6,3 +6,6 @@ C:\Users\qinn\source\repos\KomodoBadges\KomodoBadges\obj\Debug\KomodoBadges.cspr
 C:\Users\qinn\source\repos\KomodoBadges\KomodoBadges\obj\Debug\KomodoBadges.csproj.CoreCompileInputs.cache
 C:\Users\qinn\source\repos\KomodoBadges\KomodoBadges\obj\Debug\KomodoBadges.exe
 C:\Users\qinn\source\repos\KomodoBadges\KomodoBadges\obj\Debug\KomodoBadges.pdb
+C:\Users\qinn\source\repos\KomodoBadges\KomodoBadges\bin\Debug\BadgesRepository.dll
+C:\Users\qinn\source\repos\KomodoBadges\KomodoBadges\bin\Debug\BadgesRepository.pdb
+C:\Users\qinn\source\repos\KomodoBadges\KomodoBadges\obj\Debug\KomodoBadges.csproj.CopyComplete
