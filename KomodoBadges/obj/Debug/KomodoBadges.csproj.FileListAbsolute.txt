@@ -1,0 +1,8 @@
+C:\Users\qinn\source\repos\KomodoBadges\KomodoBadges\bin\Debug\KomodoBadges.exe.config
+C:\Users\qinn\source\repos\KomodoBadges\KomodoBadges\bin\Debug\KomodoBadges.exe
+C:\Users\qinn\source\repos\KomodoBadges\KomodoBadges\bin\Debug\KomodoBadges.pdb
+C:\Users\qinn\source\repos\KomodoBadges\KomodoBadges\obj\Debug\KomodoBadges.csproj.AssemblyReference.cache
+C:\Users\qinn\source\repos\KomodoBadges\KomodoBadges\obj\Debug\KomodoBadges.csproj.SuggestedBindingRedirects.cache
+C:\Users\qinn\source\repos\KomodoBadges\KomodoBadges\obj\Debug\KomodoBadges.csproj.CoreCompileInputs.cache
+C:\Users\qinn\source\repos\KomodoBadges\KomodoBadges\obj\Debug\KomodoBadges.exe
+C:\Users\qinn\source\repos\KomodoBadges\KomodoBadges\obj\Debug\KomodoBadges.pdb
