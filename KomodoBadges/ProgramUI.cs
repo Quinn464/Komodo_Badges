@@ -197,7 +197,7 @@ namespace KomodoBadges
             Console.Clear();
            
             
-            Console.WriteLine("What is the badge number to update:");
+            Console.WriteLine("What is the badge number to update");
             int badgeNum = Convert.ToInt32(Console.ReadLine());
             Badge badgeToUpdate = _repo.GetABadgeByID(badgeNum);
             List<string> doorsOnBadge = new List<string>();
@@ -205,7 +205,7 @@ namespace KomodoBadges
             {
                 string doorsResult = string.Join(",", badgeToUpdate.Doors);
                 Console.WriteLine($"Badge {badgeToUpdate.BadgeID} has access to doors: {doorsResult}.");
-                Console.WriteLine($"Do you want to remove all existing  doors from Badge {badgeToUpdate.BadgeID}? (y/n)");
+                Console.WriteLine($"Do you want to remove all existing  doors from Badge? {badgeToUpdate.BadgeID}? (y/n)");
                 string deleteAll = Console.ReadLine();
                 if (deleteAll.ToLower() == "y")
                 {
@@ -223,12 +223,12 @@ namespace KomodoBadges
                 }
                 else
                 {
-                    Console.WriteLine("Canceled.");
+                    Console.WriteLine("Canceled");
                 }
             }
             else
             {
-                Console.WriteLine("Badge ID not found.");
+                Console.WriteLine("Badge ID not found");
 
             }
             Console.WriteLine("Press any key to go back");
